@@ -25,8 +25,7 @@ Replay & exit buttons (included)
 ---------------
 Python 3
 Pygame library
-
-![Screenshot (102)](https://github.com/user-attachments/assets/81caf1e6-f7a1-4a7e-b024-52886a7fb961)
-![Screenshot (101)](https://github.com/user-attachments/assets/fa8b349d-2567-41a6-a66b-93aa0324cabd)
 ![Screenshot (99)](https://github.com/user-attachments/assets/d86d25b2-3f56-49bd-87cc-38e7c845d544)
+![Screenshot (101)](https://github.com/user-attachments/assets/fa8b349d-2567-41a6-a66b-93aa0324cabd)
+![Screenshot (102)](https://github.com/user-attachments/assets/81caf1e6-f7a1-4a7e-b024-52886a7fb961)
 
